@@ -1,2 +1,4 @@
 /cache/
 /config/development/
+/.DS_Store
+/__pycache__/
