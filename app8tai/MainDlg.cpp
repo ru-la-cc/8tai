@@ -4,7 +4,6 @@
 #include <process.h>
 #include <string>
 #include <opencv2/opencv.hpp>
-#include "resource.h"
 
 #pragma comment(lib, "opencv_world480.lib")
 
